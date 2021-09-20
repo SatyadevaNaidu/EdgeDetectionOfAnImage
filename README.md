@@ -1,2 +1,4 @@
 # EdgeDetectionOfAnImage
-Converts a colour image into black and white image while only keeping edges of an image.
+To detect edges of your own image
+@1st open edgedetect.py file
+@2nd 
